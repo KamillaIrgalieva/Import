@@ -1,7 +1,0 @@
- .DS_Store
-css/
- img/
-        index.html
-        index.html_old
-        js/
-        tmp/
